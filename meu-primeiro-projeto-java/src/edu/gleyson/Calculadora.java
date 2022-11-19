@@ -23,3 +23,5 @@ public class Calculadora {
     }
 }
 
+// cd meu-primeiro-projeto-java/src/edu/gleyson
+// javadoc -encoding UTF-8 -docencoding ISO-8859-1  -d ../docs  *.java 
