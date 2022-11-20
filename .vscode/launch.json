@@ -1,0 +1,71 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AboutMe",
+            "request": "launch",
+            "mainClass": "edu.gleyson.AboutMe",
+            "projectName": "dio-java-basico_e4415cf"
+            "args": ["GLEYSON", "SAMPAIO", "28", "1.58"]
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "edu.gleyson.App",
+            "projectName": "dio-java-basico_e4415cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "edu.gleyson.BoletimEstudantil",
+            "projectName": "dio-java-basico_e4415cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinhaClasse",
+            "request": "launch",
+            "mainClass": "edu.gleyson.MinhaClasse",
+            "projectName": "dio-java-basico_e4415cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinhaClasse2",
+            "request": "launch",
+            "mainClass": "edu.gleyson.MinhaClasse2",
+            "projectName": "dio-java-basico_e4415cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operadores",
+            "request": "launch",
+            "mainClass": "edu.gleyson.Operadores",
+            "projectName": "dio-java-basico_e4415cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch TiposVariaveis",
+            "request": "launch",
+            "mainClass": "edu.gleyson.TiposVariaveis",
+            "projectName": "dio-java-basico_e4415cf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Usuario",
+            "request": "launch",
+            "mainClass": "edu.gleyson.Usuario",
+            "projectName": "dio-java-basico_e4415cf"
+        }
+    ]
+}
